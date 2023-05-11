@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/subject-lists/static/css/main.ba4d0c7e.css",
-    "main.js": "/subject-lists/static/js/main.15eb03bc.js",
-    "static/js/787.d1dc8a22.chunk.js": "/subject-lists/static/js/787.d1dc8a22.chunk.js",
-    "index.html": "/subject-lists/index.html",
-    "main.ba4d0c7e.css.map": "/subject-lists/static/css/main.ba4d0c7e.css.map",
-    "main.15eb03bc.js.map": "/subject-lists/static/js/main.15eb03bc.js.map",
-    "787.d1dc8a22.chunk.js.map": "/subject-lists/static/js/787.d1dc8a22.chunk.js.map"
+    "main.css": "/business-management-lists/static/css/main.701625e1.css",
+    "main.js": "/business-management-lists/static/js/main.8f67e5bf.js",
+    "static/js/787.d1dc8a22.chunk.js": "/business-management-lists/static/js/787.d1dc8a22.chunk.js",
+    "static/media/img_1.jpg": "/business-management-lists/static/media/img_1.105d627756055c766772.jpg",
+    "index.html": "/business-management-lists/index.html",
+    "main.701625e1.css.map": "/business-management-lists/static/css/main.701625e1.css.map",
+    "main.8f67e5bf.js.map": "/business-management-lists/static/js/main.8f67e5bf.js.map",
+    "787.d1dc8a22.chunk.js.map": "/business-management-lists/static/js/787.d1dc8a22.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba4d0c7e.css",
-    "static/js/main.15eb03bc.js"
+    "static/css/main.701625e1.css",
+    "static/js/main.8f67e5bf.js"
   ]
 }
